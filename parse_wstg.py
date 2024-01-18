@@ -110,5 +110,6 @@ if __name__ == '__main__':
       
     main("OWASP_WSTG_ASVS.xlsx", "vulns_ESP", "es", "OWASP WSTG")
     main("OWASP_WSTG_ASVS.xlsx", "vulns_ENG", "en", "OWASP WSTG")
+    main("OWASP_WSTG_ASVS.new.xlsx", "vulns_FRA", "fr", "OWASP WSTG")
     
     

@@ -1,0 +1,2168 @@
+[
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N",
+        "category": "Information Gathering",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/stable/4-Web_Application_Security_Testing/01-Information_Gathering/01-Conduct_Search_Engine_Discovery_Reconnaissance_for_Information_Leakage"
+                ],
+                "locale": "fr",
+                "title": "Divulgation d'informations sensibles",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N",
+        "category": "Information Gathering",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/01-Information_Gathering/02-Fingerprint_Web_Server",
+                    "https://cwe.mitre.org/data/definitions/200.html",
+                    "https://wiki.owasp.org/index.php/Testing_for_Web_Application_Fingerprint_(OWASP-IG-004)"
+                ],
+                "locale": "fr",
+                "title": "Divulgation d'informations sensibles",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N",
+        "category": "Information Gathering",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/v42/4-Web_Application_Security_Testing/01-Information_Gathering/08-Fingerprint_Web_Application_Framework"
+                ],
+                "locale": "fr",
+                "title": "Divulgation d'informations sensibles",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N",
+        "category": "Information Gathering",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/01-Information_Gathering/03-Review_Webserver_Metafiles_for_Information_Leakage",
+                    "https://cwe.mitre.org/data/definitions/200.html",
+                    "https://developers.google.com/search/docs/advanced/robots/intro"
+                ],
+                "locale": "fr",
+                "title": "Divulgation d'informations sensibles",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N",
+        "category": "Information Gathering",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/01-Information_Gathering/03-Review_Webserver_Metafiles_for_Information_Leakage",
+                    "https://cwe.mitre.org/data/definitions/200.html"
+                ],
+                "locale": "fr",
+                "title": "Divulgation d'informations sensibles",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N",
+        "category": "Information Gathering",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/01-Information_Gathering/03-Review_Webserver_Metafiles_for_Information_Leakage",
+                    "https://cwe.mitre.org/data/definitions/200.html"
+                ],
+                "locale": "fr",
+                "title": "Divulgation d'informations sensibles",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N",
+        "category": "Information Gathering",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/01-Information_Gathering/03-Review_Webserver_Metafiles_for_Information_Leakage",
+                    "https://cwe.mitre.org/data/definitions/200.html"
+                ],
+                "locale": "fr",
+                "title": "Divulgation d'informations sensibles",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N",
+        "category": "Information Gathering",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/01-Information_Gathering/05-Review_Webpage_Content_for_Information_Leakage",
+                    "https://cwe.mitre.org/data/definitions/540.html"
+                ],
+                "locale": "fr",
+                "title": "Divulgation d'informations sensibles",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N",
+        "category": "Information Gathering",
+        "details": [
+            {
+                "references": [
+                    "https://cwe.mitre.org/data/definitions/497.html"
+                ],
+                "locale": "fr",
+                "title": "Divulgation d'informations sensibles",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N",
+        "category": "Information Gathering",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/01-Information_Gathering/05-Review_Webpage_Content_for_Information_Leakage",
+                    "https://cwe.mitre.org/data/definitions/200.html"
+                ],
+                "locale": "fr",
+                "title": "Divulgation d'informations sensibles",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N",
+        "category": "Information Gathering",
+        "details": [
+            {
+                "references": [
+                    "https://cwe.mitre.org/data/definitions/200.html",
+                    "https://cwe.mitre.org/data/definitions/359.html"
+                ],
+                "locale": "fr",
+                "title": "Disclosure of credentials (credentials leak)",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N",
+        "category": "Information Gathering",
+        "details": [
+            {
+                "references": [
+                    "https://cwe.mitre.org/data/definitions/798.html"
+                ],
+                "locale": "fr",
+                "title": "Use of Hard-coded Credentials",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N",
+        "category": "Information Gathering",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/01-Information_Gathering/05-Review_Webpage_Content_for_Information_Leakage",
+                    "https://cwe.mitre.org/data/definitions/200.html",
+                    "https://capec.mitre.org/data/definitions/118.html"
+                ],
+                "locale": "fr",
+                "title": "Divulgation d'informations sensibles",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N",
+        "category": "Information Gathering",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/01-Information_Gathering/02-Fingerprint_Web_Server",
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/01-Information_Gathering/04-Enumerate_Applications_on_Webserver",
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/01-Information_Gathering/08-Fingerprint_Web_Application_Framework"
+                ],
+                "locale": "fr",
+                "title": "Divulgation d'informations sensibles",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N",
+        "category": "Information Gathering",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/01-Information_Gathering/04-Enumerate_Applications_on_Webserver",
+                    "https://cwe.mitre.org/data/definitions/538.html",
+                    "https://www.owasp.org/index.php/Full_Path_Disclosure"
+                ],
+                "locale": "fr",
+                "title": "Disclosure of internal server paths and directories",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N",
+        "category": "Information Gathering",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/01-Information_Gathering/04-Enumerate_Applications_on_Webserver",
+                    "https://cwe.mitre.org/data/definitions/548.html"
+                ],
+                "locale": "fr",
+                "title": "Directory listing",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:L/A:N",
+        "category": "SSL/TLS encryption",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/01-Information_Gathering/04-Enumerate_Applications_on_Webserver",
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/09-Testing_for_Weak_Cryptography/01-Testing_for_Weak_Transport_Layer_Security",
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/09-Testing_for_Weak_Cryptography/04-Testing_for_Weak_Encryption",
+                    "https://cwe.mitre.org/data/definitions/311.html",
+                    "https://cheatsheetseries.owasp.org/cheatsheets/HTTP_Strict_Transport_Security_Cheat_Sheet.html",
+                    "https://cheatsheetseries.owasp.org/cheatsheets/Transport_Layer_Protection_Cheat_Sheet.html",
+                    "https://wiki.owasp.org/index.php/Testing_for_Weak_SSL/TLS_Ciphers,_Insufficient_Transport_Layer_Protection_(OTG-CRYPST-001)"
+                ],
+                "locale": "fr",
+                "title": "Absence of SSL/TLS encryption",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:L/A:N",
+        "category": "SSL/TLS encryption",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/stable/4-Web_Application_Security_Testing/09-Testing_for_Weak_Cryptography/01-Testing_for_Weak_Transport_Layer_Security",
+                    "https://owasp.org/www-project-web-security-testing-guide/stable/4-Web_Application_Security_Testing/09-Testing_for_Weak_Cryptography/03-Testing_for_Sensitive_Information_Sent_via_Unencrypted_Channels",
+                    "https://cwe.mitre.org/data/definitions/16.html",
+                    "https://cwe.mitre.org/data/definitions/319.html",
+                    "https://capec.mitre.org/data/definitions/117.html"
+                ],
+                "locale": "fr",
+                "title": "Mixed content",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:L/A:N",
+        "category": "SSL/TLS encryption",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/stable/4-Web_Application_Security_Testing/09-Testing_for_Weak_Cryptography/04-Testing_for_Weak_Encryption",
+                    "https://cwe.mitre.org/data/definitions/310.html",
+                    "https://cwe.mitre.org/data/definitions/327.html"
+                ],
+                "locale": "fr",
+                "title": "Weak Encryption algorithms",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:L/A:N",
+        "category": "SSL/TLS encryption",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/stable/4-Web_Application_Security_Testing/09-Testing_for_Weak_Cryptography/01-Testing_for_Weak_Transport_Layer_Security",
+                    "https://cwe.mitre.org/data/definitions/326.html"
+                ],
+                "locale": "fr",
+                "title": "Use of Obsolete SSL/TLS Protocol Versions",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:L/A:N",
+        "category": "SSL/TLS encryption",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/stable/4-Web_Application_Security_Testing/09-Testing_for_Weak_Cryptography/01-Testing_for_Weak_Transport_Layer_Security"
+                ],
+                "locale": "fr",
+                "title": "Secure Client-Initiated Renegotiation",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:L/A:N",
+        "category": "SSL/TLS encryption",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/stable/4-Web_Application_Security_Testing/09-Testing_for_Weak_Cryptography/01-Testing_for_Weak_Transport_Layer_Security",
+                    "https://owasp.org/www-project-web-security-testing-guide/stable/4-Web_Application_Security_Testing/09-Testing_for_Weak_Cryptography/04-Testing_for_Weak_Encryption",
+                    "https://cwe.mitre.org/data/definitions/16.html"
+                ],
+                "locale": "fr",
+                "title": "Untrusted Digital Certificate",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:N",
+        "category": "SSL/TLS encryption",
+        "details": [
+            {
+                "references": [
+                    "https://cwe.mitre.org/data/definitions/299.html"
+                ],
+                "locale": "fr",
+                "title": "Improper check for certificate revocation (OCSP Stapling)",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:N/A:N",
+        "category": "SSL/TLS encryption",
+        "details": [
+            {
+                "references": [
+                    "https://cwe.mitre.org/data/definitions/299.html"
+                ],
+                "locale": "fr",
+                "title": "CA certificates",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:N",
+        "category": "Configuration and Deploy Management",
+        "details": [
+            {
+                "references": [
+                    "https://cwe.mitre.org/data/definitions/306.html"
+                ],
+                "locale": "fr",
+                "title": "Ensure overall security",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N",
+        "category": "Configuration and Deploy Management",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/02-Configuration_and_Deployment_Management_Testing/01-Test_Network_Infrastructure_Configuration",
+                    "https://cwe.mitre.org/data/definitions/477.html"
+                ],
+                "locale": "fr",
+                "title": "Outdated OS version (Known associated vulnerabilities)",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N",
+        "category": "Configuration and Deploy Management",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/02-Configuration_and_Deployment_Management_Testing/01-Test_Network_Infrastructure_Configuration",
+                    "https://cwe.mitre.org/data/definitions/477.html"
+                ],
+                "locale": "fr",
+                "title": "Outdated dependencies and libraries",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N",
+        "category": "Configuration and Deploy Management",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/02-Configuration_and_Deployment_Management_Testing/05-Enumerate_Infrastructure_and_Application_Admin_Interfaces",
+                    "https://cwe.mitre.org/data/definitions/16.html"
+                ],
+                "locale": "fr",
+                "title": "Identification of management panels",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N",
+        "category": "Configuration and Deploy Management",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/02-Configuration_and_Deployment_Management_Testing/05-Enumerate_Infrastructure_and_Application_Admin_Interfaces",
+                    "https://cwe.mitre.org/data/definitions/16.html"
+                ],
+                "locale": "fr",
+                "title": "Server configuration not hardened",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N",
+        "category": "Configuration and Deploy Management",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/02-Configuration_and_Deployment_Management_Testing/02-Test_Application_Platform_Configuration",
+                    "https://cwe.mitre.org/data/definitions/532.html"
+                ],
+                "locale": "fr",
+                "title": "Sensitive information in accessible logs",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N",
+        "category": "Configuration and Deploy Management",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/02-Configuration_and_Deployment_Management_Testing/04-Review_Old_Backup_and_Unreferenced_Files_for_Sensitive_Information",
+                    "https://cwe.mitre.org/data/definitions/200.html",
+                    "https://cwe.mitre.org/data/definitions/530.html"
+                ],
+                "locale": "fr",
+                "title": "Backup file identification",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N",
+        "category": "Configuration and Deploy Management",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/02-Configuration_and_Deployment_Management_Testing/06-Test_HTTP_Methods",
+                    "https://cwe.mitre.org/data/definitions/16.html"
+                ],
+                "locale": "fr",
+                "title": "Insecure HTTP methods enabled",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:N/A:N",
+        "category": "Configuration and Deploy Management",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/02-Configuration_and_Deployment_Management_Testing/07-Test_HTTP_Strict_Transport_Security",
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/02-Configuration_and_Deployment_Management_Testing/12-Test_for_Content_Security_Policy",
+                    "https://cwe.mitre.org/data/definitions/16.html",
+                    "https://cwe.mitre.org/data/definitions/693.html",
+                    "https://wiki.owasp.org/index.php/OWASP_Secure_Headers_Project",
+                    "https://owasp.org/www-project-top-ten/2017/A6_2017-Security_Misconfiguration"
+                ],
+                "locale": "fr",
+                "title": "Lack of security HTTP headers",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:N/A:N",
+        "category": "Configuration and Deploy Management",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/02-Configuration_and_Deployment_Management_Testing/07-Test_HTTP_Strict_Transport_Security",
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/02-Configuration_and_Deployment_Management_Testing/12-Test_for_Content_Security_Policy",
+                    "https://cwe.mitre.org/data/definitions/16.html",
+                    "https://cwe.mitre.org/data/definitions/693.html",
+                    "https://wiki.owasp.org/index.php/OWASP_Secure_Headers_Project",
+                    "https://owasp.org/www-project-top-ten/2017/A6_2017-Security_Misconfiguration"
+                ],
+                "locale": "fr",
+                "title": "Absence of HSTS (HTTP Strict Transport Security) header",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:N/A:N",
+        "category": "Configuration and Deploy Management",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/02-Configuration_and_Deployment_Management_Testing/07-Test_HTTP_Strict_Transport_Security",
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/02-Configuration_and_Deployment_Management_Testing/12-Test_for_Content_Security_Policy",
+                    "https://cwe.mitre.org/data/definitions/16.html",
+                    "https://cwe.mitre.org/data/definitions/693.html",
+                    "https://wiki.owasp.org/index.php/OWASP_Secure_Headers_Project",
+                    "https://owasp.org/www-project-top-ten/2017/A6_2017-Security_Misconfiguration"
+                ],
+                "locale": "fr",
+                "title": "Absence of X-Frame-Options header",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:N/A:N",
+        "category": "Configuration and Deploy Management",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/02-Configuration_and_Deployment_Management_Testing/07-Test_HTTP_Strict_Transport_Security",
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/02-Configuration_and_Deployment_Management_Testing/12-Test_for_Content_Security_Policy",
+                    "https://cwe.mitre.org/data/definitions/16.html",
+                    "https://cwe.mitre.org/data/definitions/693.html",
+                    "https://wiki.owasp.org/index.php/OWASP_Secure_Headers_Project",
+                    "https://owasp.org/www-project-top-ten/2017/A6_2017-Security_Misconfiguration"
+                ],
+                "locale": "fr",
+                "title": "Absence of Content Security Policy (CSP) header",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:N/A:N",
+        "category": "Configuration and Deploy Management",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/02-Configuration_and_Deployment_Management_Testing/07-Test_HTTP_Strict_Transport_Security",
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/02-Configuration_and_Deployment_Management_Testing/12-Test_for_Content_Security_Policy",
+                    "https://cwe.mitre.org/data/definitions/16.html",
+                    "https://cwe.mitre.org/data/definitions/693.html",
+                    "https://wiki.owasp.org/index.php/OWASP_Secure_Headers_Project",
+                    "https://owasp.org/www-project-top-ten/2017/A6_2017-Security_Misconfiguration"
+                ],
+                "locale": "fr",
+                "title": "Absence of Cache Control header",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:N/A:N",
+        "category": "Configuration and Deploy Management",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/02-Configuration_and_Deployment_Management_Testing/07-Test_HTTP_Strict_Transport_Security",
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/02-Configuration_and_Deployment_Management_Testing/12-Test_for_Content_Security_Policy",
+                    "https://cwe.mitre.org/data/definitions/16.html",
+                    "https://cwe.mitre.org/data/definitions/693.html",
+                    "https://wiki.owasp.org/index.php/OWASP_Secure_Headers_Project",
+                    "https://owasp.org/www-project-top-ten/2017/A6_2017-Security_Misconfiguration"
+                ],
+                "locale": "fr",
+                "title": "Absence of Pragma header",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:N/A:N",
+        "category": "Configuration and Deploy Management",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/02-Configuration_and_Deployment_Management_Testing/07-Test_HTTP_Strict_Transport_Security",
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/02-Configuration_and_Deployment_Management_Testing/12-Test_for_Content_Security_Policy",
+                    "https://cwe.mitre.org/data/definitions/16.html",
+                    "https://cwe.mitre.org/data/definitions/693.html",
+                    "https://wiki.owasp.org/index.php/OWASP_Secure_Headers_Project",
+                    "https://owasp.org/www-project-top-ten/2017/A6_2017-Security_Misconfiguration"
+                ],
+                "locale": "fr",
+                "title": "Absence of Feature Policy header",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:N/A:N",
+        "category": "Configuration and Deploy Management",
+        "details": [
+            {
+                "references": [
+                    "https://cwe.mitre.org/data/definitions/116.html"
+                ],
+                "locale": "fr",
+                "title": "Absence of Referrer Policy header",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:N/A:N",
+        "category": "Configuration and Deploy Management",
+        "details": [
+            {
+                "references": [
+                    "https://cwe.mitre.org/data/definitions/116.html"
+                ],
+                "locale": "fr",
+                "title": "Absence of X-Content-Type-Options header",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:N/A:N",
+        "category": "Configuration and Deploy Management",
+        "details": [
+            {
+                "references": [
+                    "https://cwe.mitre.org/data/definitions/524.html"
+                ],
+                "locale": "fr",
+                "title": "Anti-Caching header (Server-side)",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:N/A:N",
+        "category": "Configuration and Deploy Management",
+        "details": [
+            {
+                "references": [
+                    "https://cwe.mitre.org/data/definitions/173.html"
+                ],
+                "locale": "fr",
+                "title": "Unsafe Content-Type header within the response",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N",
+        "category": "Configuration and Deploy Management",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/02-Configuration_and_Deployment_Management_Testing/09-Test_File_Permission",
+                    "https://cwe.mitre.org/data/definitions/732.html"
+                ],
+                "locale": "fr",
+                "title": "Excessive file and directory permissions",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L",
+        "category": "Configuration and Deploy Management",
+        "details": [
+            {
+                "references": [
+                    "https://cwe.mitre.org/data/definitions/770.html"
+                ],
+                "locale": "fr",
+                "title": "Allocation of Resources Without Limits or Throttling",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N",
+        "category": "Identity Management",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/03-Identity_Management_Testing/04-Testing_for_Account_Enumeration_and_Guessable_User_Account",
+                    "https://cwe.mitre.org/data/definitions/203.html",
+                    "https://cwe.mitre.org/data/definitions/204.html",
+                    "https://cwe.mitre.org/data/definitions/200.html"
+                ],
+                "locale": "fr",
+                "title": "Account (users) enumeration",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N",
+        "category": "Identity Management",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/03-Identity_Management_Testing/02-Test_User_Registration_Process",
+                    "https://cwe.mitre.org/data/definitions/287.html"
+                ],
+                "locale": "fr",
+                "title": "Insecure user registration process",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:L/I:L/A:N",
+        "category": "Identity Management",
+        "details": [
+            {
+                "references": [
+                    "https://cwe.mitre.org/data/definitions/384.html"
+                ],
+                "locale": "fr",
+                "title": "The login functionality should always generate a new session id",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N",
+        "category": "Authentication",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/04-Authentication_Testing/02-Testing_for_Default_Credentials",
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/04-Authentication_Testing/07-Testing_for_Weak_Password_Policy",
+                    "https://cwe.mitre.org/data/definitions/521.html"
+                ],
+                "locale": "fr",
+                "title": "Weaknesses in password policy",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:N",
+        "category": "Authentication",
+        "details": [
+            {
+                "references": [
+                    "https://cwe.mitre.org/data/definitions/263.html"
+                ],
+                "locale": "fr",
+                "title": "No password rotation policy",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:N",
+        "category": "Authentication",
+        "details": [
+            {
+                "references": [
+                    "https://cwe.mitre.org/data/definitions/620.html"
+                ],
+                "locale": "fr",
+                "title": "Permit password change",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N",
+        "category": "Authentication",
+        "details": [
+            {
+                "references": [
+                    "https://cwe.mitre.org/data/definitions/521.html"
+                ],
+                "locale": "fr",
+                "title": "Verify breached passwords",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N",
+        "category": "Authentication",
+        "details": [
+            {
+                "references": [
+                    "https://cwe.mitre.org/data/definitions/330.html"
+                ],
+                "locale": "fr",
+                "title": "Secrets should be secure random generated",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N",
+        "category": "Authentication",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/04-Authentication_Testing/03-Testing_for_Weak_Lock_Out_Mechanism",
+                    "https://cwe.mitre.org/data/definitions/804.html",
+                    "https://cwe.mitre.org/data/definitions/645.html",
+                    "https://cwe.mitre.org/data/definitions/1216.html",
+                    "https://cwe.mitre.org/data/definitions/307.html"
+                ],
+                "locale": "fr",
+                "title": "Weaknesses in protection against brute force attacks",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N",
+        "category": "Authentication",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/04-Authentication_Testing/03-Testing_for_Weak_Lock_Out_Mechanism",
+                    "https://cwe.mitre.org/data/definitions/693.html"
+                ],
+                "locale": "fr",
+                "title": "Weakness in the second factor authentication mechanism (2FA).",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N",
+        "category": "Authentication",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/02-Configuration_and_Deployment_Management_Testing/01-Test_Network_Infrastructure_Configuration",
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/04-Authentication_Testing/02-Testing_for_Default_Credentials",
+                    "https://cwe.mitre.org/data/definitions/521.html"
+                ],
+                "locale": "fr",
+                "title": "Default usernames and passwords",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N",
+        "category": "Authentication",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/04-Authentication_Testing/04-Testing_for_Bypassing_Authentication_Schema",
+                    "https://cwe.mitre.org/data/definitions/288.html"
+                ],
+                "locale": "fr",
+                "title": "Login functionality bypass",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N",
+        "category": "Authentication",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/v42/4-Web_Application_Security_Testing/04-Authentication_Testing/06-Testing_for_Browser_Cache_Weaknesses",
+                    "https://cwe.mitre.org/data/definitions/525.html"
+                ],
+                "locale": "fr",
+                "title": "Sensitive information stored in browser",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N",
+        "category": "Authentication",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/04-Authentication_Testing/09-Testing_for_Weak_Password_Change_or_Reset_Functionalities",
+                    "https://cwe.mitre.org/data/definitions/640.html"
+                ],
+                "locale": "fr",
+                "title": "Weaknesses in password change/reset functionality",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N",
+        "category": "Authentication",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/04-Authentication_Testing/09-Testing_for_Weak_Password_Change_or_Reset_Functionalities",
+                    "https://cwe.mitre.org/data/definitions/319.html",
+                    "https://cwe.mitre.org/data/definitions/311.html"
+                ],
+                "locale": "fr",
+                "title": "Credentials sent in clear text via email",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N",
+        "category": "Authentication",
+        "details": [
+            {
+                "references": [
+                    "https://cwe.mitre.org/data/definitions/287.html"
+                ],
+                "locale": "fr",
+                "title": "Improper authentication",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:L/A:L",
+        "category": "Authentication",
+        "details": [
+            {
+                "references": [
+                    "https://cwe.mitre.org/data/definitions/285.html"
+                ],
+                "locale": "fr",
+                "title": "All authentication controls must fail securely",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:L/A:N",
+        "category": "Authentication",
+        "details": [
+            {
+                "references": [
+                    "https://cwe.mitre.org/data/definitions/310.html"
+                ],
+                "locale": "fr",
+                "title": "Cryptographic modules must fail securely - Padding Oracle Attack",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:L/A:N",
+        "category": "Authorization",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/05-Authorization_Testing/01-Testing_Directory_Traversal_File_Include",
+                    "https://cwe.mitre.org/data/definitions/22.html"
+                ],
+                "locale": "fr",
+                "title": "Path Traversal",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:L/A:N",
+        "category": "Authorization",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/05-Authorization_Testing/04-Testing_for_Insecure_Direct_Object_References",
+                    "https://cwe.mitre.org/data/definitions/706.html",
+                    "https://cwe.mitre.org/data/definitions/813.html"
+                ],
+                "locale": "fr",
+                "title": "IDOR (Insecure Direct Object References)",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:L/A:N",
+        "category": "Authorization",
+        "details": [
+            {
+                "references": [
+                    "https://cwe.mitre.org/data/definitions/306.html"
+                ],
+                "locale": "fr",
+                "title": "Principle of least privilege",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N",
+        "category": "Authorization",
+        "details": [
+            {
+                "references": [
+                    "https://cwe.mitre.org/data/definitions/285.html"
+                ],
+                "locale": "fr",
+                "title": "Improper Authorization",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N",
+        "category": "Session Management",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/06-Session_Management_Testing/01-Testing_for_Session_Management_Schema",
+                    "https://cwe.mitre.org/data/definitions/1018.html",
+                    "https://owasp.org/www-community/attacks/Session_Prediction"
+                ],
+                "locale": "fr",
+                "title": "Predictable session ID",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:N/A:N",
+        "category": "Session Management",
+        "details": [
+            {
+                "references": [
+                    "https://cwe.mitre.org/data/definitions/614.html https://cwe.mitre.org/data/definitions/1004.html",
+                    "https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies",
+                    "https://cheatsheetseries.owasp.org/cheatsheets/Session_Management_Cheat_Sheet.html"
+                ],
+                "locale": "fr",
+                "title": "Secure attribute missing in cookies",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:N/A:N",
+        "category": "Session Management",
+        "details": [
+            {
+                "references": [
+                    "https://cwe.mitre.org/data/definitions/614.html https://cwe.mitre.org/data/definitions/1004.html",
+                    "https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies",
+                    "https://cheatsheetseries.owasp.org/cheatsheets/Session_Management_Cheat_Sheet.html"
+                ],
+                "locale": "fr",
+                "title": "HTTP Only attribute missing in cookies",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:N/A:N",
+        "category": "Session Management",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/06-Session_Management_Testing/02-Testing_for_Cookies_Attributes",
+                    "https://cwe.mitre.org/data/definitions/1275.html",
+                    "https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html",
+                    "https://cwe.mitre.org/data/definitions/1275.html"
+                ],
+                "locale": "fr",
+                "title": "SameSite attribute missing in cookies",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:N/A:N",
+        "category": "Session Management",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/06-Session_Management_Testing/02-Testing_for_Cookies_Attributes",
+                    "https://cwe.mitre.org/data/definitions/613.html"
+                ],
+                "locale": "fr",
+                "title": "Application cookies have an excessive or indefinite expiration time.",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:N/A:N",
+        "category": "Session Management",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-community/Session_Timeout"
+                ],
+                "locale": "fr",
+                "title": "Insufficient Session Expiration",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N",
+        "category": "Session Management",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/06-Session_Management_Testing/03-Testing_for_Session_Fixation",
+                    "https://cwe.mitre.org/data/definitions/384.html"
+                ],
+                "locale": "fr",
+                "title": "Session Fixation",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:L/A:N",
+        "category": "Session Management",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/v42/4-Web_Application_Security_Testing/06-Session_Management_Testing/05-Testing_for_Cross_Site_Request_Forgery",
+                    "https://cwe.mitre.org/data/definitions/352.html"
+                ],
+                "locale": "fr",
+                "title": "Cross-site Request Forgery (CSRF)",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:L/A:N",
+        "category": "Session Management",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/v42/4-Web_Application_Security_Testing/06-Session_Management_Testing/05-Testing_for_Cross_Site_Request_Forgery",
+                    "https://cwe.mitre.org/data/definitions/352.html"
+                ],
+                "locale": "fr",
+                "title": "Absence of token anti-CSRF",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:L/A:N",
+        "category": "Session Management",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/06-Session_Management_Testing/06-Testing_for_Logout_Functionality",
+                    "https://cwe.mitre.org/data/definitions/287.html"
+                ],
+                "locale": "fr",
+                "title": "Weaknesses in the logout process.",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:L/A:N",
+        "category": "Session Management",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/06-Session_Management_Testing/07-Testing_Session_Timeout",
+                    "https://cwe.mitre.org/data/definitions/1018.html"
+                ],
+                "locale": "fr",
+                "title": "Weaknesses in the logout process due to inactivity.",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:L/A:N",
+        "category": "Session Management",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/06-Session_Management_Testing/09-Testing_for_Session_Hijacking",
+                    "https://capec.mitre.org/data/definitions/593.html"
+                ],
+                "locale": "fr",
+                "title": "Session Hijacking",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:L/A:N",
+        "category": "Session Management",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-community/attacks/Session_hijacking_attack"
+                ],
+                "locale": "fr",
+                "title": "Concurrent logins not properly controlled.",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:L/A:N",
+        "category": "Input Validation",
+        "details": [
+            {
+                "references": [
+                    "https://cwe.mitre.org/data/definitions/159.html"
+                ],
+                "locale": "fr",
+                "title": "(generic) Failure to Sanitize input",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:L/A:N",
+        "category": "Input Validation",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/07-Input_Validation_Testing/01-Testing_for_Reflected_Cross_Site_Scripting",
+                    "https://owasp.org/www-community/attacks/xss/",
+                    "https://cwe.mitre.org/data/definitions/79.html"
+                ],
+                "locale": "fr",
+                "title": "(generic) Cross-Site Scripting (XSS)",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:L/A:N",
+        "category": "Input Validation",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/07-Input_Validation_Testing/01-Testing_for_Reflected_Cross_Site_Scripting",
+                    "https://owasp.org/www-community/attacks/xss/",
+                    "https://cwe.mitre.org/data/definitions/79.html"
+                ],
+                "locale": "fr",
+                "title": "Reflected Cross-Site Scripting (Reflected XSS)",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:L",
+        "category": "Input Validation",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-community/attacks/Server_Side_Request_Forgery https://cheatsheetseries.owasp.org/cheatsheets/Server_Side_Request_Forgery_Prevention_Cheat_SS heet.html"
+                ],
+                "locale": "fr",
+                "title": "Stored Cross-Site Scripting (Stored XSS)",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:L/A:N",
+        "category": "Input Validation",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/07-Input_Validation_Testing/04-Testing_for_HTTP_Parameter_Pollution",
+                    "https://cwe.mitre.org/data/definitions/235.html",
+                    "https://capec.mitre.org/data/definitions/460.html"
+                ],
+                "locale": "fr",
+                "title": "HTTP Parameter Pollution (HPP)",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:L",
+        "category": "Input Validation",
+        "details": [
+            {
+                "references": [
+                    "https://www.owasp.org/index.php/SQL_Injection"
+                ],
+                "locale": "fr",
+                "title": "(generic) SQL Injection",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:L",
+        "category": "Input Validation",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/07-Input_Validation_Testing/05-Testing_for_SQL_Injection",
+                    "https://owasp.org/www-community/attacks/Blind_SQL_Injection",
+                    "https://cwe.mitre.org/data/definitions/89.html"
+                ],
+                "locale": "fr",
+                "title": "In band Union-based SQL Injection",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:L",
+        "category": "Input Validation",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/07-Input_Validation_Testing/05-Testing_for_SQL_Injection",
+                    "https://cwe.mitre.org/data/definitions/89.html"
+                ],
+                "locale": "fr",
+                "title": "In band Error-Based SQL Injection",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:L",
+        "category": "Input Validation",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/07-Input_Validation_Testing/05-Testing_for_SQL_Injection",
+                    "https://cwe.mitre.org/data/definitions/89.html"
+                ],
+                "locale": "fr",
+                "title": "Blind Time-Based SQL Injection",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:L",
+        "category": "Input Validation",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/07-Input_Validation_Testing/05-Testing_for_SQL_Injection",
+                    "https://cwe.mitre.org/data/definitions/89.html"
+                ],
+                "locale": "fr",
+                "title": "Blind Boolean-Based SQL Injection",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:L",
+        "category": "Input Validation",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/07-Input_Validation_Testing/05-Testing_for_SQL_Injection",
+                    "https://cwe.mitre.org/data/definitions/89.html"
+                ],
+                "locale": "fr",
+                "title": "Out of Band SQL Injection",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:L",
+        "category": "Input Validation",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/07-Input_Validation_Testing/06-Testing_for_LDAP_Injection",
+                    "https://cheatsheetseries.owasp.org/cheatsheets/LDAP_Injection_Prevention_Cheat_Sheet.html",
+                    "https://cwe.mitre.org/data/definitions/90.html"
+                ],
+                "locale": "fr",
+                "title": "LDAP Injection",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:L",
+        "category": "Input Validation",
+        "details": [
+            {
+                "references": [
+                    "https://cwe.mitre.org/data/definitions/611.html",
+                    "https://owasp.org/www-community/vulnerabilities/XML_External_Entity_(XXE)_Processing https://capec.mitre.org/data/definitions/201.html"
+                ],
+                "locale": "fr",
+                "title": "XML External Entity Processing (XXE)",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:L/A:N",
+        "category": "Input Validation",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/07-Input_Validation_Testing/08-Testing_for_SSI_Injection",
+                    "https://owasp.org/www-community/attacks/Server-Side_Includes_(SSI)_Injection#:~:text=The%20Server%2DSide%20Includes%20attack,use%20through%20user%20input%20fields.",
+                    "- http://httpd.apache.org/docs/current/howto/ssi.html",
+                    "https://cwe.mitre.org/data/definitions/96.html",
+                    "https://cwe.mitre.org/data/definitions/116.html",
+                    "https://cwe.mitre.org/data/definitions/159.html"
+                ],
+                "locale": "fr",
+                "title": "Server Side Injection (SSI)",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:L",
+        "category": "Input Validation",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/07-Input_Validation_Testing/09-Testing_for_XPath_Injection",
+                    "https://owasp.org/www-community/attacks/XPATH_Injection",
+                    "https://cwe.mitre.org/data/definitions/94.html"
+                ],
+                "locale": "fr",
+                "title": "XPATH injection",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:L",
+        "category": "Input Validation",
+        "details": [
+            {
+                "references": [
+                    "https://cwe.mitre.org/data/definitions/35.html",
+                    "https://capec.mitre.org/data/definitions/126.html"
+                ],
+                "locale": "fr",
+                "title": "File Path Manipulation",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:L",
+        "category": "Input Validation",
+        "details": [
+            {
+                "references": [
+                    "https://cwe.mitre.org/data/definitions/73.html"
+                ],
+                "locale": "fr",
+                "title": "External Control of Filename",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:L",
+        "category": "Input Validation",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/07-Input_Validation_Testing/11.1-Testing_for_File_Inclusion",
+                    "https://cwe.mitre.org/data/definitions/20.html",
+                    "https://owasp.org/www-project-web-security-testing-guide/stable/4-Web_Application_Security_Testing/07-Input_Validation_Testing/11-Testing_for_Code_Injection"
+                ],
+                "locale": "fr",
+                "title": "Remote code execution (RCE) by injection of local files",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:L",
+        "category": "Input Validation",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/07-Input_Validation_Testing/11.1-Testing_for_File_Inclusion",
+                    "https://cheatsheetseries.owasp.org/cheatsheets/File_Upload_Cheat_Sheet.html",
+                    "https://cwe.mitre.org/data/definitions/20.html"
+                ],
+                "locale": "fr",
+                "title": "Remote code execution (RCE)",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:L",
+        "category": "Input Validation",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/07-Input_Validation_Testing/11.1-Testing_for_File_Inclusion",
+                    "https://cheatsheetseries.owasp.org/cheatsheets/File_Upload_Cheat_Sheet.html",
+                    "https://cwe.mitre.org/data/definitions/20.html"
+                ],
+                "locale": "fr",
+                "title": "Remote code execution (RCE) by remote file injection",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N",
+        "category": "Authorization",
+        "details": [
+            {
+                "references": [
+                    "https://cwe.mitre.org/data/definitions/284.html"
+                ],
+                "locale": "fr",
+                "title": "Improper access control",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:L",
+        "category": "Authorization",
+        "details": [
+            {
+                "references": [
+                    "https://cwe.mitre.org/data/definitions/284.html"
+                ],
+                "locale": "fr",
+                "title": "Remote Code Execution (RCE) by Improper Access Control",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:L",
+        "category": "Input Validation",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/07-Input_Validation_Testing/12-Testing_for_Command_Injection",
+                    "https://portswigger.net/web-security/os-command-injection",
+                    "https://cwe.mitre.org/data/definitions/77.html",
+                    "https://cwe.mitre.org/data/definitions/78.html"
+                ],
+                "locale": "fr",
+                "title": "Command Injection",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:L",
+        "category": "Input Validation",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/07-Input_Validation_Testing/17-Testing_for_Host_Header_Injection",
+                    "https://cwe.mitre.org/data/definitions/644.html"
+                ],
+                "locale": "fr",
+                "title": "Injection of commands into HTTP Host headers.",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:L",
+        "category": "Input Validation",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/07-Input_Validation_Testing/18-Testing_for_Server-side_Template_Injection",
+                    "https://cwe.mitre.org/data/definitions/94.html",
+                    "https://portswigger.net/research/server-side-template-injection"
+                ],
+                "locale": "fr",
+                "title": "Server-Side Template Injection (SSTI)",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:L/A:N",
+        "category": "Input Validation",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/07-Input_Validation_Testing/19-Testing_for_Server-Side_Request_Forgery",
+                    "https://cwe.mitre.org/data/definitions/918.html"
+                ],
+                "locale": "fr",
+                "title": "Server-Side Request Forgery (SSRF)",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:H/A:L",
+        "category": "Input Validation",
+        "details": [
+            {
+                "references": [
+                    "https://cwe.mitre.org/data/definitions/20.html"
+                ],
+                "locale": "fr",
+                "title": "JSON validation schema",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:H/A:L",
+        "category": "Input Validation",
+        "details": [
+            {
+                "references": [
+                    "https://cwe.mitre.org/data/definitions/20.html"
+                ],
+                "locale": "fr",
+                "title": "XML schema (XSD)",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:H/A:L",
+        "category": "Input Validation",
+        "details": [
+            {
+                "references": [
+                    "https://cwe.mitre.org/data/definitions/20.html"
+                ],
+                "locale": "fr",
+                "title": "Verify that structured data is strongly typed and validated",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:N/A:N",
+        "category": "Error handling",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/08-Testing_for_Error_Handling/01-Testing_For_Improper_Error_Handling"
+                ],
+                "locale": "fr",
+                "title": "Divulgation d'informations sensibles",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:N",
+        "category": "Functionality/Business Logic",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/10-Business_Logic_Testing/06-Testing_for_the_Circumvention_of_Work_Flows"
+                ],
+                "locale": "fr",
+                "title": "Abuse of application logic workflow.",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:L/A:N",
+        "category": "Functionality/Business Logic",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/stable/4-Web_Application_Security_Testing/10-Business_Logic_Testing/09-Test_Upload_of_Malicious_Files.html",
+                    "https://cheatsheetseries.owasp.org/cheatsheets/File_Upload_Cheat_Sheet.html"
+                ],
+                "locale": "fr",
+                "title": "Insecure validation in file upload functionality",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:L",
+        "category": "Functionality/Business Logic",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/10-Business_Logic_Testing/01-Test_Business_Logic_Data_Validation",
+                    "https://cheatsheetseries.owasp.org/cheatsheets/Deserialization_Cheat_Sheet.html",
+                    "https://cwe.mitre.org/data/definitions/502.html"
+                ],
+                "locale": "fr",
+                "title": "Insecure deserialization",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:L/A:N",
+        "category": "Web client side",
+        "details": [
+            {
+                "references": [
+                    "https://cwe.mitre.org/data/definitions/601.html",
+                    "https://portswigger.net/kb/issues/00500100_open-redirection-reflected"
+                ],
+                "locale": "fr",
+                "title": "Client-Side URL Redirect (Open Redirection)",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:L/A:N",
+        "category": "Web client side",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/11-Client-side_Testing/03-Testing_for_HTML_Injection",
+                    "https://cwe.mitre.org/data/definitions/20.html"
+                ],
+                "locale": "fr",
+                "title": "HTML Content Injection",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:N/A:N",
+        "category": "Web client side",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/11-Client-side_Testing/05-Testing_for_CSS_Injection",
+                    "https://research.securitum.com/css-data-exfiltration-in-firefox-via-single-injection-point/",
+                    "https://cwe.mitre.org/data/definitions/20.html"
+                ],
+                "locale": "fr",
+                "title": "CSS Content Injection",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:L/A:N",
+        "category": "Web client side",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/11-Client-side_Testing/01-Testing_for_DOM-based_Cross_Site_Scripting",
+                    "https://cwe.mitre.org/data/definitions/79.html"
+                ],
+                "locale": "fr",
+                "title": "DOM based Cross-Site Scripting (XSS)",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    },
+    {
+        "cvssv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:L/A:N",
+        "category": "Web client side",
+        "details": [
+            {
+                "references": [
+                    "https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/11-Client-side_Testing/07-Testing_Cross_Origin_Resource_Sharing",
+                    "https://cwe.mitre.org/data/definitions/942.html",
+                    "https://developer.mozilla.org/es/docs/Web/HTTP/CORS",
+                    "https://stackoverflow.com/questions/1653308/access-control-allow-origin-multiple-origin-domains"
+                ],
+                "locale": "fr",
+                "title": "Cross-Origin Resource Sharing (CORS) missconfiguration",
+                "vulnType": "OWASP WSTG",
+                "description": "<p>Les moteurs de recherche peuvent être utilisés pour reconnaître des sites web et des applications...</p>",
+                "observation": "<ul><li><p>Confidentialité : Lecture des données d'application : L'attaquant pourrait être en mesure de lire des informations sensibles</p></li></ul>",
+                "remediation": "<p>Avant de publier une application, il est essentiel de considérer la sensibilité des données exposées afin de prévenir les divulgations accidentelles d'informations sensibles.</p>"
+            }
+        ]
+    }
+]
